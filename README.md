@@ -9,7 +9,7 @@ Opencv处理B站直播流的简易解码器(请在flv_image_player.py里修改)
 
 # 用法
 ```shell
-cd BiliLiveDL
+cd LSB-T-Decoder
 main.py 房间ID [qn数值(默认10000即原画)]
 ```
 
